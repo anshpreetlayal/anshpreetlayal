@@ -7,7 +7,7 @@ I am currently enhancing my GitHub profile to showcase my journey in computer pr
 - **LinkedIn:** [Anshpreet Layal](https://www.linkedin.com/in/anshpreetlayal/)
 
 ## ⚙️ General SQL Skills:
-Check out my SQL practice repository on GitHub: [Practice_SQL](https://github.com/anshpreetlayal/practice_sql)
+Check out my SQL practice repository : [Practice_SQL](https://github.com/anshpreetlayal/practice_sql)
 
 
 
