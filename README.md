@@ -1,11 +1,13 @@
-# hello there 🖐🏽💻 I am Anshpreet,
-I am currently enhancing my GitHub profile to showcase my journey in computer programming and my commitment to becoming a skilled data engineer. Feel free to explore my projects and contributions
+# Hello there! 🖐🏽💻 I am Anshpreet
 
-Connect with me:
-Mail: anshpreetlayal@outlook.com
-linkedin: https://www.linkedin.com/in/anshpreetlayal/
+I am currently enhancing my GitHub profile to showcase my journey in computer programming and my commitment to becoming a skilled data engineer. Feel free to explore my projects and contributions.
 
-General sql skills: https://github.com/anshpreetlayal/practice_sql
+## Connect with me:
+- **Mail:** [anshpreetlayal@outlook.com](mailto:anshpreetlayal@outlook.com)
+- **LinkedIn:** [Anshpreet Layal](https://www.linkedin.com/in/anshpreetlayal/)
+
+## General SQL Skills:
+Check out my SQL practice repository on GitHub: [Practice_SQL](https://github.com/anshpreetlayal/practice_sql)
 
 
 
