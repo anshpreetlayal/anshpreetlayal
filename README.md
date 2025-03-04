@@ -23,9 +23,8 @@ I am currently enhancing my GitHub profile to showcase my journey in computer pr
 
 Below are some of the professional certifications earned:
 
-- **[Certification Name]** - Issued by: [Organization] - [Date]
-- **[Certification Name]** - Issued by: [Organization] - [Date]
-- **[Certification Name]** - Issued by: [Organization] - [Date]
+- **[Python for Everybody Specialization.]** - Issued by: [University of Michigan] - [February 13, 2024]
+- **[Functional Programming Principles in Scala]** - Issued by: [École polytechnique fédérale de Lausanne, EPFL] - [March, 2024]
 
 
 Feel free to connect for collaborations, discussions, or job opportunities!
