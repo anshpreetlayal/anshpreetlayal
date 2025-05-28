@@ -12,8 +12,9 @@ I am currently enhancing my GitHub profile to showcase my journey in computer pr
 
 - **Mail:** [anshpreetlayal@outlook.com](mailto:anshpreetlayal@outlook.com)
 - **LinkedIn:** [Anshpreet Layal](https://www.linkedin.com/in/anshpreetlayal/)
-- **Resume:** [Your Resume Link]
 - **SQL Skills:** [Practice_SQL](https://github.com/anshpreetlayal/practice_sql)
+- **Scala practice:** [practice_data_engineering_scala](https://github.com/anshpreetlayal/practice_data_engineering_scala)
+- **Python practice:** [practice_data_engineering_scala](https://github.com/anshpreetlayal/practice_data_engineering_python)
 
 ## 📜 Certifications & Courses
 
