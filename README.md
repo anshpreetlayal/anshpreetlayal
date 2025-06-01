@@ -18,9 +18,9 @@ I am currently enhancing my GitHub profile to showcase my journey in computer pr
 
 Below are some of the professional certifications earned:
 
-- [February 13, 2024] **[Python for Everybody Specialization](https://1drv.ms/i/c/2aa120d90e320c39/EdbZYdkp3L1Mu0-VP9v7wcMBrN2ZH3J_iBv1lhxSuIuhbg?e=tPxDaT)** - Issued by: [University of Michigan] 
-- [March, 2024] **[Functional Programming Principles in Scala]** - Issued by: [École polytechnique fédérale de Lausanne, EPFL] 
-- [Jan 9, 2024] **[Introduction to Statistics]** - Issued by: [Coursera] 
+- [February 13, 2024] [Python for Everybody Specialization](https://1drv.ms/i/c/2aa120d90e320c39/EdbZYdkp3L1Mu0-VP9v7wcMBrN2ZH3J_iBv1lhxSuIuhbg?e=tPxDaT)- Issued by: [University of Michigan] 
+- [March, 2024] [Functional Programming Principles in Scala](https://1drv.ms/i/c/2aa120d90e320c39/EXCpVjDE9P1CjzocMv5S3UkBmz9FITxQk1GEKZAMaPQ0jg?e=QUdvOD) - Issued by: [École polytechnique fédérale de Lausanne, EPFL] 
+- [Jan 9, 2024] [Introduction to Statistics](https://1drv.ms/i/c/2aa120d90e320c39/EV-guWQHKKFBis-RoqezLZcB0cPqIhY4kR0JJZgKoTIYSw?e=Yhz26e) - Issued by: [Coursera] 
 
 
 
