@@ -1,6 +1,4 @@
 
-# Anshpreet Kaur
-
 ## 👋 Hi, I’m Anshpreet
 
 ## 👀 About Me
